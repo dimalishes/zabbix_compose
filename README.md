@@ -29,7 +29,7 @@ POSTGRES_PASSWORD=zabbix
 POSTGRES_DB=zabbixNew
 ```
 
-# Можно натроить через Wireguard для passive proxy через firewall
+# Можно настроить через Wireguard для passive proxy через firewall
 ## Установка wireguard
 ```bash
 sudo apt install wireguard

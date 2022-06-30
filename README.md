@@ -17,7 +17,7 @@ echo \
 sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose
 ```
-# Для того, чтобы команды докера выполнялись без SUDO
+# Для того, чтобы команды докера выполнялись без SUDO в случае установки на "домашнюю" ubuntu
 ```bash
 sudo usermod -aG docker $USER
 ```

@@ -3,7 +3,7 @@
 Оф инфа
 [Docker Doks](https://docs.docker.com/engine/install/ubuntu/)
 
-# Установка Docker на ubuntu 20.04,20.10
+# Установка Docker на ubuntu
 ```bash
 sudo apt-get install apt-transport-https ca-certificates curl \
     gnupg lsb-release
